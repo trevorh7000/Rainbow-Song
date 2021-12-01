@@ -11,3 +11,9 @@ Maybe I just missed a step in Daniel's video - but I am up to speed now and it i
 I will complete his series as I hope he will show how you can use ones editor with integrated git capabilities to do all the commits and stuff automatically - if that is what you should want.
 
 Trev out.
+
+Ok this if from the GitHub editor - I have already added some lines on my laptop version and di the old git commit -a - m "committ message!!!!"
+
+When I did a status on the laptop it said I was one commit ahead - now I will commit this on the GitHub and see what the laptop says and how I can in fact merge thse tow as I want to keep bith additions
+
+GitHub out.
