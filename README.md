@@ -12,17 +12,18 @@ I will complete his series as I hope he will show how you can use ones editor wi
 
 Trev out.
 
-<<<<<<< HEAD
 Ok this this is added from laptop and committed to main on the command line 
 I will added something similar onto the github repo using its web editor and commit it.
 
 Then I will status it from commandline and see if I can pull or at least merge the file and how that all godfs.
 
 Laptop out.
-=======
-Ok this if from the GitHub editor - I have already added some lines on my laptop version and di the old git commit -a - m "committ message!!!!"
+
+Ok this if from the GitHub editor - I have already added some lines on my laptop version and di the old git commit -a - m "commit message!!!!"
 
 When I did a status on the laptop it said I was one commit ahead - now I will commit this on the GitHub and see what the laptop says and how I can in fact merge thse tow as I want to keep bith additions
 
 GitHub out.
->>>>>>> bd98d626e650d585070800981dead8e1282e5033:
+
+Ok the merge tool did its thing and I pushed and it synced both local and githib and now I have cleaned it up in the easier editor and will pull
+
