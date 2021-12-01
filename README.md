@@ -11,3 +11,10 @@ Maybe I just missed a step in Daniel's video - but I am up to speed now and it i
 I will complete his series as I hope he will show how you can use ones editor with integrated git capabilities to do all the commits and stuff automatically - if that is what you should want.
 
 Trev out.
+
+Ok this this is added from laptop and committed to main on the command line 
+I will added something similar onto the github repo using its web editor and commit it.
+
+Then I will status it from commandline and see if I can pull or at least merge the file and how that all goes.
+
+Laptop out.
